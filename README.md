@@ -1,1 +1,3 @@
 # my-awesome-project
+
+This is a projet that is awesome or will be soon...
